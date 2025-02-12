@@ -13,7 +13,7 @@ placeholder
 - ### [Drone](https://github.com/SeanOmodon/LHNT_Drone)
   - placeholder
   - Project Lead: Sean Omodon
-  - Subsystems: Design, Electronics, Hardware-Software Integration
+  - Subsystems: Design, Electronics, Control
 - ### EEG Headset
   - placeholder
   - Project Lead: Neha Palsikar
