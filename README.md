@@ -34,5 +34,8 @@ placeholder
   - placeholder
   - Project Lead: Elena Salinas
   - Subsystems: 
---- 
 
+## Rulesets
+- Making a branch is required to make changes to the main branch.
+- Every pull request must be aproved by a repository admin before merging.
+- Branches will be deleted automatically after merging. 
