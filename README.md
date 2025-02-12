@@ -4,6 +4,7 @@ This serves as a directory for all hardware projects. Can be used as a template 
 ## Table of Contents
 1. [Description](#Description)
 2. [Projects](#Projects)
+3. [Rulesets](#Rulesets)
 
 ## Description
 
