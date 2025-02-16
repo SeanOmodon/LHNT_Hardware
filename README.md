@@ -11,7 +11,7 @@ This serves as a directory for all hardware projects. Can be used as a template 
 placeholder
 
 ## Projects
-- ### [Drone](https://github.com/SeanOmodon/LHNT_Drone)
+- ### [Drone](https://github.com/LonghornNeurotech/LHNT_Drone)
   - placeholder
   - Project Lead: Sean Omodon
   - Subsystems: Design, Electronics, Control
@@ -27,7 +27,7 @@ placeholder
   - placeholder
   - Project Lead: Leelai Teshome
   - Subsystems: 
-- ### [Rover](https://github.com/SeanOmodon/LHNT_Rover)
+- ### [Rover](https://github.com/LonghornNeurotech/LHNT_Rover)
   - placeholder
   - Project Lead: Sean Omodon
   - Subsystems: Drivetrain Mechanism, Electronics, Hardware-Software Integration
